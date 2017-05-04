@@ -20,7 +20,8 @@
     <string name="main_no_update_available">No hay actualizaciones</string>
     <string name="main_update_filename">Nombre del archivo</string>
     <string name="main_update_progress">Progreso de actualización</string>
-    <string name="main_website">Página web</string>
+    <string name="main_website">Foro</string>
+    <string name="main_website_summary">Visitar el hilo en XDA</string>	
     <string name="main_donate">Donar</string>
     <string name="main_donate_summary">Donar al desarrollador de la ROM</string>
     <string name="main_tap_to_download">Pulse para descargar</string>
