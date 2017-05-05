@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-hdpi-v19/list_pressed_holo_dark.9.png",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-hdpi-v19/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-hdpi-v19/list_pressed_holo_light.9.png",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-hdpi-v19/list_pressed_holo_light.9.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_cancel_button.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_addon_cancel_button.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/preference.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/preference.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_addons.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_addons.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_available_menu.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_available_menu.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_download_button.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_addon_download_button.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_about.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_about.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_main.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_main.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_addon_delete_button.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_addon_delete_button.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/layout-v21/ota_available.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/layout-v21/ota_available.xml"
+    }
+]

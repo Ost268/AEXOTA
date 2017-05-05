@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/ripple_selector_light.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/ripple_selector_light.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/card_material_background_light.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/card_material_background_light.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/material_background_dark.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/material_background_dark.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/drawable_download.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/drawable_download.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/ripple_selector_dark.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/ripple_selector_dark.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/drawable_check.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/drawable_check.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/drawable_donate.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/drawable_donate.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/drawable_website.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/drawable_website.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/material_background_light.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/material_background_light.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/drawable_addon.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/drawable_addon.xml"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-v21/card_material_background_dark.xml",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-v21/card_material_background_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v21/ic_launcher.png",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-xxxhdpi-v21/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v21/ic_download.png",
+        "source": "/home/ishubhamsingh/AndroidStudioProjects/AEXOTA1/app/src/main/res/drawable-xxxhdpi-v21/ic_download.png"
+    }
+]

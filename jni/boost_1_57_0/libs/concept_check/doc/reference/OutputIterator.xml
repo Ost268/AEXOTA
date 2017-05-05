@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <concept name="OutputIterator" category="Iterator"><!--
 Based on concepts from the SGI Standard Template Library documentation:
 Copyright (c) 1996-1999
